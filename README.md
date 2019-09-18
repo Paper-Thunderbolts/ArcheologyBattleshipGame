@@ -34,6 +34,6 @@ Jonathan- ZKcnJGUFKkDaLmRDQO6t
 
 - Lastly to know you are serious add a commit change into this readme file with your idea.  Once you have done so you will be accepted https://guides.github.com/activities/hello-world/
 
-####Other
+###Other
 Edited md text doc with 
 [Pandao md editor](https://pandao.github.io/editor.md)
