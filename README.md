@@ -18,11 +18,21 @@ This will be a project that will merge a battleship javascript game and open arc
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZEhuEf8Br7zYw21O_IVhExuus5iF53ri-UWn_7xKsgv8ACjy)
 - [Antikythera Archeology Database](https://archaeologydataservice.ac.uk/archives/view/antikythera_ahrc_2012/downloads.cfm?type=artefact) 
 -[Data Simple web map](http://jwitcoski.github.io/Antikythera/antikythera.html) 
--[Here XYZ simple map](https://xyz.here.com/viewer/?project_id=e2e096b3-b10a-44e0-83f4-b6861) 
+-[Here XYZ simple map](https://xyz.here.com/viewer/?project_id=e2e096b3-b10a-44e0-83f4-b6861270e029) 
 
 
 ### Team Info
-https://www.agorize.com/en/challenges/heremapathon/teams/39498
+If you would like to join the team do the following:  
+
+- [Join the team on agorize](https://www.agorize.com/en/challenges/heremapathon/teams/39498)
+- [Join the github team page](https://github.com/Paper-Thunderbolts)
+- [Register on HERE XYZ]
+Follow this link (http://bit.ly/herexyzstudio) to register on HERE XYZ to get started! Every team member has to register. Please enter all your teammates' APP IDs that are displayed on your Account Dashboard.
+Add your APP ID below:
+
+Jonathan- ZKcnJGUFKkDaLmRDQO6t
+
+- Lastly to know you are serious add a commit change into this readme file with your idea.  Once you have done so you will be accepted https://guides.github.com/activities/hello-world/
 
 ####Other
 Edited md text doc with 
