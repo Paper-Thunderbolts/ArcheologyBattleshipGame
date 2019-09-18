@@ -17,8 +17,8 @@ This will be a project that will merge a battleship javascript game and open arc
 ### Open Source Data
 
 - [Antikythera Archeology Database](https://archaeologydataservice.ac.uk/archives/view/antikythera_ahrc_2012/downloads.cfm?type=artefact) 
-[Data Simple web map](http://jwitcoski.github.io/Antikythera/antikythera.html) 
-[Here XYZ simple map](https://xyz.here.com/viewer/?project_id=e2e096b3-b10a-44e0-83f4-b6861) 
+-[Data Simple web map](http://jwitcoski.github.io/Antikythera/antikythera.html) 
+-[Here XYZ simple map](https://xyz.here.com/viewer/?project_id=e2e096b3-b10a-44e0-83f4-b6861) 
 
 
 ### Team Info
@@ -27,3 +27,4 @@ https://www.agorize.com/en/challenges/heremapathon/teams/39498
 ####Other
 Edited md text doc with 
 [Pandao md editor](https://pandao.github.io/editor.md)
+
