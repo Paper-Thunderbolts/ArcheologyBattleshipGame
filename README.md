@@ -8,6 +8,18 @@ This will be a project that will merge a battleship javascript game and open arc
 - Here XYZ database, tile rendering, and technology
 - Will use Javascript, HTML, CSS, and other web based code
 
+### Current Code Progress
+.... <!-- post content -->
+
+<div class="iframe_container">
+  <iframe src="https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/HTML.html" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</div>
+
+.... <!-- post content -->
+![](https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/CurrentMap.JPG)
+[Current HTML map](https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/HTML.html])
+[Kanban board](https://github.com/orgs/Paper-Thunderbolts/projects/1)
+
 ### Code
 ![](https://screenshot.codepen.io/183400.ByBEOz.d1421f9d-c3f1-4c88-8d62-5bf78a677ead.png)
 - [Simple Battle Ship Game code](https://codepen.io/CodifyAcademy/pen/ByBEOz) 
