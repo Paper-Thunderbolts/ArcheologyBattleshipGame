@@ -12,7 +12,7 @@ This will be a project that will merge a battleship javascript game and open arc
 .... <!-- post content -->
 
 <figure>
-<iframe src="https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/HTML.html" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/HTML.html" width="1000" height="1000" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 </figure>
 
 .... <!-- post content -->
@@ -30,6 +30,14 @@ This will be a project that will merge a battleship javascript game and open arc
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZEhuEf8Br7zYw21O_IVhExuus5iF53ri-UWn_7xKsgv8ACjy)
 - [Antikythera Archeology Database](https://archaeologydataservice.ac.uk/archives/view/antikythera_ahrc_2012/downloads.cfm?type=artefact) 
 -[Data Simple web map](http://jwitcoski.github.io/Antikythera/antikythera.html) 
+.... <!-- post content -->
+
+<figure>
+<iframe src="https://xyz.here.com/viewer/?project_id=e2e096b3-b10a-44e0-83f4-b6861270e029" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</figure>
+
+.... <!-- post content -->
+
 -[Here XYZ simple map](https://xyz.here.com/viewer/?project_id=e2e096b3-b10a-44e0-83f4-b6861270e029) 
 
 
