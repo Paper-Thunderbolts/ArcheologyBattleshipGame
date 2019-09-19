@@ -32,7 +32,7 @@ This will be a project that will merge a battleship javascript game and open arc
 ![](https://screenshot.codepen.io/183400.ByBEOz.d1421f9d-c3f1-4c88-8d62-5bf78a677ead.png)
 - [Simple Battle Ship Game code](https://codepen.io/CodifyAcademy/pen/ByBEOz) 
 - Here XYZ database, tile rendering, and technology
-- Will use Javascript, HTML, CSS, and other web based code
+- Check out the code on [Github](https://github.com/Paper-Thunderbolts/ArcheologyBattleshipGame), it uses Javascript, HTML, CSS, and other web based code
 
 ### Open Source Data
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZEhuEf8Br7zYw21O_IVhExuus5iF53ri-UWn_7xKsgv8ACjy)
@@ -62,6 +62,6 @@ Jonathan- ZKcnJGUFKkDaLmRDQO6t
 
 - Lastly to know you are serious add a commit change into this readme file with your idea.  Once you have done so you will be accepted [How to guide](https://guides.github.com/activities/hello-world/)
 
-###Other
+### Other
 Edited md text doc with 
 [Pandao md editor](https://pandao.github.io/editor.md)
