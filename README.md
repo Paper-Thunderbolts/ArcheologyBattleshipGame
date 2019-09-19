@@ -10,6 +10,8 @@ This will be a project that will merge a battleship javascript game and open arc
 
 ### Current Code Progress
 
+### [Current HTML map](https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/HTML.html)
+
 .... <!-- post content -->
 
 <figure>
@@ -18,9 +20,7 @@ This will be a project that will merge a battleship javascript game and open arc
 
 .... <!-- post content -->
 
-#### [Current HTML map](https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/HTML.html])
-
-[Kanban board](https://github.com/orgs/Paper-Thunderbolts/projects/1)
+### [Kanban board](https://github.com/orgs/Paper-Thunderbolts/projects/1)
 
 .... <!-- post content -->
 
