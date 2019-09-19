@@ -15,6 +15,21 @@ This will be a project that will merge a battleship javascript game and open arc
   <iframe src="https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/HTML.html" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 </div>
 
+.iframe_container {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 - this is responsive by adjusting the hight according to the width! */
+	padding-top: 25px;
+	height: 0;
+}
+
+.iframe_container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
 .... <!-- post content -->
 ![](https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/CurrentMap.JPG)
 [Current HTML map](https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/HTML.html])
