@@ -9,6 +9,7 @@ This will be a project that will merge a battleship javascript game and open arc
 - Will use Javascript, HTML, CSS, and other web based code
 
 ### Current Code Progress
+
 .... <!-- post content -->
 
 <figure>
@@ -17,8 +18,17 @@ This will be a project that will merge a battleship javascript game and open arc
 
 .... <!-- post content -->
 
-[Current HTML map](https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/HTML.html])
+#### [Current HTML map](https://paper-thunderbolts.github.io/ArcheologyBattleshipGame/HTML.html])
+
 [Kanban board](https://github.com/orgs/Paper-Thunderbolts/projects/1)
+
+.... <!-- post content -->
+
+<figure>
+<iframe src="https://github.com/orgs/Paper-Thunderbolts/projects/1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</figure>
+
+.... <!-- post content -->
 
 ### Code
 ![](https://screenshot.codepen.io/183400.ByBEOz.d1421f9d-c3f1-4c88-8d62-5bf78a677ead.png)
@@ -47,12 +57,12 @@ If you would like to join the team do the following:
 - [Join the team on agorize](https://www.agorize.com/en/challenges/heremapathon/teams/39498)
 - [Join the github team page](https://github.com/Paper-Thunderbolts)
 - [Register on HERE XYZ]
-Follow this link (http://bit.ly/herexyzstudio) to register on HERE XYZ to get started! Every team member has to register. Please enter all your teammates' APP IDs that are displayed on your Account Dashboard.
+Follow this link ([http://bit.ly/herexyzstudio](http://bit.ly/herexyzstudio)) to register on HERE XYZ to get started! Every team member has to register. Please enter all your teammates' APP IDs that are displayed on your Account Dashboard.
 Add your APP ID below:
 
 Jonathan- ZKcnJGUFKkDaLmRDQO6t
 
-- Lastly to know you are serious add a commit change into this readme file with your idea.  Once you have done so you will be accepted https://guides.github.com/activities/hello-world/
+- Lastly to know you are serious add a commit change into this readme file with your idea.  Once you have done so you will be accepted [How to guide](https://guides.github.com/activities/hello-world/)
 
 ###Other
 Edited md text doc with 
